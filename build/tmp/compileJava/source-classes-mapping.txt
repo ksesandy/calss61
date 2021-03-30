@@ -1,0 +1,6 @@
+com/tom/SilverCustomer.java
+ com.tom.SilverCustomer
+com/tom/Customer.java
+ com.tom.Customer
+com/tom/Tester.java
+ com.tom.Tester
