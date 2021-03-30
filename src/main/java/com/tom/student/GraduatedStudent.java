@@ -8,4 +8,9 @@ public class GraduatedStudent extends Student {
         super(id, name, english, math);
         this.thesis = thesis;
     }
+
+    @Override
+    public void mail() {
+
+    }
 }
