@@ -1,6 +1,10 @@
-package com.tom;
+package com.tom.customer;
 
-public class SilverCustomer extends Customer {
+import com.tom.student.Mailer;
+
+public class SilverCustomer
+        extends Customer
+        implements Mailer {
     float discount = 0.1f;
 
     public SilverCustomer(String id, int amount) {
@@ -9,5 +13,10 @@ public class SilverCustomer extends Customer {
     @Override
     public int getTotal() {
         return amount - (int)(amount * discount);
+    }
+
+    @Override
+    public void mail() {
+
     }
 }

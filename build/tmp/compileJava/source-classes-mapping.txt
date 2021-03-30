@@ -1,6 +1,14 @@
-com/tom/SilverCustomer.java
- com.tom.SilverCustomer
-com/tom/Customer.java
- com.tom.Customer
-com/tom/Tester.java
- com.tom.Tester
+com/tom/student/GraduatedStudent.java
+ com.tom.student.GraduatedStudent
+com/tom/customer/Customer.java
+ com.tom.customer.Customer
+com/tom/student/Student.java
+ com.tom.student.Student
+com/tom/customer/Tester.java
+ com.tom.customer.Tester
+com/tom/student/Mailer.java
+ com.tom.student.Mailer
+com/tom/customer/SilverCustomer.java
+ com.tom.customer.SilverCustomer
+com/tom/student/Tester.java
+ com.tom.student.Tester

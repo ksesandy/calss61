@@ -1,4 +1,4 @@
-package com.tom;
+package com.tom.customer;
 
 public class Customer {
     String id;
