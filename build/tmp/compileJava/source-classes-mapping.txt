@@ -10,6 +10,8 @@ com/tom/student/GraduatedStudent.java
  com.tom.student.GraduatedStudent
 com/tom/student/Mailer.java
  com.tom.student.Mailer
+com/tom/box/Tester.java
+ com.tom.box.Tester
 com/tom/customer/SilverCustomer.java
  com.tom.customer.SilverCustomer
 com/tom/customer/Customer.java
@@ -18,5 +20,9 @@ com/tom/student/Tester.java
  com.tom.student.Tester
 com/tom/box/Box3.java
  com.tom.box.Box3
-com/tom/box/Tester.java
- com.tom.box.Tester
+com/tom/racing/Horse.java
+ com.tom.racing.Horse
+com/tom/racing/Racing.java
+ com.tom.racing.Racing
+com/tom/racing/HorseRunnable.java
+ com.tom.racing.HorseRunnable
