@@ -20,8 +20,8 @@ com/tom/student/Student.java
  com.tom.student.Student
 com/tom/customer/Tester.java
  com.tom.customer.Tester
-com/tom/racing/HorseRunnable.java
- com.tom.racing.HorseRunnable
+com/tom/car/CarDemo.java
+ com.tom.car.CarDemo
 com/tom/car/CarWin.java
  com.tom.car.CarWin
 com/tom/student/GraduatedStudent.java
@@ -32,5 +32,7 @@ com/tom/customer/Customer.java
  com.tom.customer.Customer
 com/tom/customer/SilverCustomer.java
  com.tom.customer.SilverCustomer
-com/tom/car/CarDemo.java
- com.tom.car.CarDemo
+com/tom/racing/HorseRunnable.java
+ com.tom.racing.HorseRunnable
+com/tom/net/Tester.java
+ com.tom.net.Tester
